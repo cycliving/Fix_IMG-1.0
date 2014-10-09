@@ -1,8 +1,10 @@
 Fix_IMG-1.0
 ===========
-Design by Gee, Updated 2014/10/09
+
+
 ----------------
 
+Design by Gee 位博數位, Updated 2014/10/09
 
 用來修正編輯器因為測試點造成的目錄錯誤
 
